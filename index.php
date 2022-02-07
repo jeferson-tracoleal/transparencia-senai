@@ -10,7 +10,7 @@
 //
 //
 //
-
+/*teste de mudança de arquivo para GIT*/
 $server_dir = "../";
 
 require $server_dir.'scripts/config.inc.php';
